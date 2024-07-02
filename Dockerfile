@@ -1,0 +1,1 @@
+FROM bestoray/pgyvpn:latest
